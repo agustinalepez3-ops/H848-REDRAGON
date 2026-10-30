@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">H848 Connect</string>
+
+    <string name="prompt_title">¿Conectar %1$s?</string>
+    <string name="prompt_text">Detecté tus auriculares prendidos.</string>
+    <string name="connect">Conectar</string>
+    <string name="not_now">Ahora no</string>
+    <string name="connecting">Conectando con %1$s…</string>
+    <string name="connected_toast">Conectado a %1$s ✓</string>
+
+    <string name="fail_title">No pude conectarlos solo</string>
+    <string name="fail_text">Tocá acá para abrir Bluetooth y elegirlos.</string>
+
+    <string name="service_title">Atento a tus auriculares</string>
+    <string name="service_text">Vigilando: %1$s</string>
+    <string name="ch_service">Servicio de detección</string>
+    <string name="ch_prompt">Aviso para conectar</string>
+
+    <string name="need_bt_perms">Necesito el permiso de Bluetooth para funcionar.</string>
+    <string name="pick_first">Primero elegí tus auriculares.</string>
+    <string name="turn_on_bt">Prendé el Bluetooth del celular primero.</string>
+    <string name="no_bonded">No hay dispositivos emparejados. Emparejá los auriculares en Ajustes, Bluetooth (en modo Bluetooth) y volvé.</string>
+    <string name="pick_title">Elegí tus auriculares</string>
+    <string name="no_device">Todavía no elegiste auriculares</string>
+    <string name="need_enable">Activá la detección primero.</string>
+    <string name="log_empty">(sin eventos todavía)</string>
+</resources>
